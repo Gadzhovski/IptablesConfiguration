@@ -3,6 +3,7 @@
 
 This script is a utility for quickly configuring iptables rules according to different use-cases: Workstation, Server, and Prototype Domain Controller. It's designed to simplify the process of setting up iptables rules, making it accessible for administrators and users with varying levels of expertise.
 
+![Screenshot 2023-12-12 120241](https://github.com/Gadzhovski/IptablesConfiguration/assets/93713208/697a18d2-82e0-44c2-86a9-e16e9e7759bb)
 
 
 ## Features
