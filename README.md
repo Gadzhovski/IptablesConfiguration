@@ -33,5 +33,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 This script should be used with caution. Improper configuration of iptables can result in inaccessible services or security vulnerabilities. Always ensure that you understand the changes being made to your iptables rules.
 
-##Credits
+## Credits
 Project developed by Radoslav Gadzhovski as part of coursework for the University of Greenwich.
