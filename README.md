@@ -15,8 +15,7 @@ This script is a utility for quickly configuring iptables rules according to dif
 ## Prerequisites
 
 - A Linux system with iptables installed.
-- Bash shell.
-- Root or sudo privileges.
+- Sudo privileges.
 
 
 ## Configurations
